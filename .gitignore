@@ -137,3 +137,9 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+README.md
+package.json
+package-lock.json
+eslint.config.js
+.gitignore
+important.txt
